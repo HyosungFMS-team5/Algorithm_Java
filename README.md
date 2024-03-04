@@ -27,7 +27,7 @@ merge 컨벤션
 
 <br><br>
   
-## 📘관련 ULINK
+## 📘관련 LINK
 
 [백준](https://www.acmicpc.net/)
 
