@@ -10,7 +10,8 @@
 ## 📄Git 컨벤션
 
 파일명
-- Day01/본인영어이름_문제번호.java
+- 자기이름/날짜/문제번호/파일명은 알아서
+- ex)Hanju/Day01/Problem01/Ex.java
 
 브랜치명
 - 본인 영어이름 ex) Hanju
@@ -37,6 +38,6 @@ merge 컨벤션
 
 ## 🖥문제
 > Day 1
-1. [학생이름 저장 및 검색](https://www.youtube.com/watch?v=w023dXv03nk&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=2&t=671s)
-2. [피보나치 수열](https://www.youtube.com/watch?v=WpzjpKt0lbc&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=3) ([관련문제](https://www.acmicpc.net/problem/2747))
-3. [최빈수 구하기](https://www.youtube.com/watch?v=C-HElAETJVo&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=4) ([관련 문제](https://www.acmicpc.net/problem/2592))
+01. [학생이름 저장 및 검색](https://www.youtube.com/watch?v=w023dXv03nk&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=2&t=671s)
+02. [피보나치 수열](https://www.youtube.com/watch?v=WpzjpKt0lbc&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=3) ([관련문제](https://www.acmicpc.net/problem/2747))
+03. [최빈수 구하기](https://www.youtube.com/watch?v=C-HElAETJVo&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=4) ([관련 문제](https://www.acmicpc.net/problem/2592))
