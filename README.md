@@ -34,6 +34,13 @@ merge 컨벤션
 [백준](https://www.acmicpc.net/)
 
 [알고리즘 기초 100제](https://www.youtube.com/playlist?list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR)
+
+<br>
+
+## 🧷리뷰어 지정
+||윤동훈|김한주|전혜민|윤다인|
+|---|---|---|---|---|
+|리뷰어|김한주|전혜민|윤다인|윤동훈|
  
 <br>
 
@@ -47,10 +54,7 @@ merge 컨벤션
 05. [대소문자 변환](https://www.youtube.com/watch?v=DTEiENYVR14&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=6) ([관련문제](https://www.acmicpc.net/problem/2744))
 06. [최대공약수 구하기](https://www.youtube.com/watch?v=jdnGckTvZ64&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=7) ([관련 문제](https://www.acmicpc.net/problem/2609))
 
-<br>
 
-## 🧷리뷰어 지정
-||윤동훈|김한주|전혜민|윤다인|
-|---|---|---|---|---|
-|리뷰어|김한주|전혜민|윤다인|윤동훈|
+
+
 
