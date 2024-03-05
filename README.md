@@ -56,7 +56,7 @@ merge 컨벤션
 > Day 3
 04. [소수 판별](https://www.youtube.com/watch?v=CZOkPNGWpDA&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=8) ([관련문제](https://www.acmicpc.net/problem/1978))
 05. [팩토리얼](https://www.youtube.com/watch?v=7wIUlCM8v9k&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=9) ([관련문제](https://www.acmicpc.net/problem/10872))
-06. [최대공약수 구하기](https://www.youtube.com/watch?v=RrjHOX1PF1A&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=10) ([관련 문제](https://www.acmicpc.net/problem/11720))
+06. [각 자릿수 합 구하기](https://www.youtube.com/watch?v=RrjHOX1PF1A&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=10) ([관련 문제](https://www.acmicpc.net/problem/11720))
 
 
 
