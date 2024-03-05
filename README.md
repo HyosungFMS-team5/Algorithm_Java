@@ -53,6 +53,10 @@ merge 컨벤션
 04. [10진수를 2진수로 변환](https://www.youtube.com/watch?v=w023dXv03nk&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=2&t=671s) ([관련문제](https://www.acmicpc.net/problem/10829))
 05. [대소문자 변환](https://www.youtube.com/watch?v=DTEiENYVR14&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=6) ([관련문제](https://www.acmicpc.net/problem/2744))
 06. [최대공약수 구하기](https://www.youtube.com/watch?v=jdnGckTvZ64&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=7) ([관련 문제](https://www.acmicpc.net/problem/2609))
+> Day 3
+04. [소수 판별](https://www.youtube.com/watch?v=CZOkPNGWpDA&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=8) ([관련문제](https://www.acmicpc.net/problem/1978))
+05. [팩토리얼](https://www.youtube.com/watch?v=7wIUlCM8v9k&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=9) ([관련문제](https://www.acmicpc.net/problem/10872))
+06. [최대공약수 구하기](https://www.youtube.com/watch?v=RrjHOX1PF1A&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=10) ([관련 문제](https://www.acmicpc.net/problem/11720))
 
 
 
