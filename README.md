@@ -46,3 +46,11 @@ merge 컨벤션
 04. [10진수를 2진수로 변환](https://www.youtube.com/watch?v=w023dXv03nk&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=2&t=671s) ([관련문제](https://www.acmicpc.net/problem/10829))
 05. [대소문자 변환](https://www.youtube.com/watch?v=DTEiENYVR14&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=6) ([관련문제](https://www.acmicpc.net/problem/2744))
 06. [최대공약수 구하기](https://www.youtube.com/watch?v=jdnGckTvZ64&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=7) ([관련 문제](https://www.acmicpc.net/problem/2609))
+
+<br>
+
+## 🧷리뷰어 지정
+||윤동훈|김한주|전혜민|윤다인|
+|---|---|---|---|---|
+|리뷰어|김한주|전혜민|윤다인|윤동훈|
+
