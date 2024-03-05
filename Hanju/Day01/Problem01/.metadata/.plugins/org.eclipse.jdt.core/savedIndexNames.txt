@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\Users\KOSA\Desktop\Algorithm_Java\Hanju\Day01\Problem01\.metadata\.plugins\org.eclipse.jdt.core
