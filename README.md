@@ -65,7 +65,10 @@ merge 컨벤션
 13. [숫자 사각형4](https://www.youtube.com/watch?v=T_2P_JwESH8&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=14&t=33s) 
 14. [숫자 개수 출력](https://www.youtube.com/watch?v=-9Ne6s2dVH0&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=15) ([관련문제](https://www.acmicpc.net/problem/10807))
 15. [구구단 1](https://www.youtube.com/watch?v=gcjG-BMwI5s&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=16) ([관련문제](https://www.acmicpc.net/problem/2739))
-
+> Day 6
+16. [삼육구 3 6 9 출력](https://www.youtube.com/watch?v=rXNm4YpPVNc&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=21) ([관련문제](https://www.acmicpc.net/problem/17614))
+17. [중복된 수 제거](https://www.youtube.com/watch?v=f7_eMzqIU70&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=22) ([관련문제](https://www.acmicpc.net/problem/10815))
+18. [팰린드롬 Palindrome](https://www.youtube.com/watch?v=gByou4ahmXs&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=23) ([관련문제](https://www.acmicpc.net/problem/1259))
 
 
 
