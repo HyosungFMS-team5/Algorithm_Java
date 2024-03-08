@@ -58,9 +58,14 @@ merge 컨벤션
 08. [팩토리얼](https://www.youtube.com/watch?v=7wIUlCM8v9k&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=9) ([관련문제](https://www.acmicpc.net/problem/10872))
 09. [각 자릿수 합 구하기](https://www.youtube.com/watch?v=RrjHOX1PF1A&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=10) ([관련 문제](https://www.acmicpc.net/problem/11720))
 > Day 4
-08. [숫자 사각형1](https://www.youtube.com/watch?v=NldRYbDqgKw&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=11)
-09. [숫자 사각형2](https://www.youtube.com/watch?v=RAHfSfIFL1M&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=12)
-10. [숫자 사각형3](https://www.youtube.com/watch?v=omAFIdaREGg&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=13)
+10. [숫자 사각형1](https://www.youtube.com/watch?v=NldRYbDqgKw&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=11)
+11. [숫자 사각형2](https://www.youtube.com/watch?v=RAHfSfIFL1M&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=12)
+12. [숫자 사각형3](https://www.youtube.com/watch?v=omAFIdaREGg&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=13)
+> > Day 5
+13. [숫자 사각형4](https://www.youtube.com/watch?v=T_2P_JwESH8&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=14&t=33s) 
+14. [숫자 개수 출력](https://www.youtube.com/watch?v=-9Ne6s2dVH0&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=15) ([관련문제](https://www.acmicpc.net/problem/10807))
+15. [구구단 1](https://www.youtube.com/watch?v=gcjG-BMwI5s&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=16) ([관련문제](https://www.acmicpc.net/problem/2739))
+
 
 
 
