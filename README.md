@@ -70,9 +70,10 @@ merge 컨벤션
 17. [중복된 수 제거](https://www.youtube.com/watch?v=f7_eMzqIU70&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=22) ([관련문제](https://www.acmicpc.net/problem/10815))
 18. [팰린드롬 Palindrome](https://www.youtube.com/watch?v=gByou4ahmXs&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=23) ([관련문제](https://www.acmicpc.net/problem/1259))
 > Day 7
-16. [문자열 뒤집기](https://www.youtube.com/watch?v=iYMY8bBnt2s&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=24) ([관련문제](https://www.acmicpc.net/problem/10811))
-17. [평균은 넘겠지](https://www.youtube.com/watch?v=2WDfsFITi5k&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=25) ([관련문제](https://www.acmicpc.net/problem/4344))
-18. [더하기 사이클](https://www.youtube.com/watch?v=fP1UTjZ_Yrw&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=26) ([관련문제](https://www.acmicpc.net/problem/1110))
-
-
-
+19. [문자열 뒤집기](https://www.youtube.com/watch?v=iYMY8bBnt2s&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=24) ([관련문제](https://www.acmicpc.net/problem/10811))
+20. [평균은 넘겠지](https://www.youtube.com/watch?v=2WDfsFITi5k&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=25) ([관련문제](https://www.acmicpc.net/problem/4344))
+21. [더하기 사이클](https://www.youtube.com/watch?v=fP1UTjZ_Yrw&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=26) ([관련문제](https://www.acmicpc.net/problem/1110))
+> Day 8
+22. [상수](https://www.youtube.com/watch?v=DH18W_oII6U&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=27&t=30s) ([관련문제](https://www.acmicpc.net/problem/2908))
+23. [달팽이 출력](https://www.youtube.com/watch?v=8tjHHJEWkbA&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=28) ([관련문제](https://www.acmicpc.net/problem/1913))
+24. [10진수 2~16 진수 변환](https://www.youtube.com/watch?v=Hdr9eLWz_MU&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=29) ([관련문제](https://www.acmicpc.net/problem/14915))
