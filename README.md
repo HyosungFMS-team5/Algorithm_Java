@@ -81,3 +81,7 @@ merge 컨벤션
 25. [음계](https://www.youtube.com/watch?v=ONOTz6RsPzo&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=30&t=180s) ([관련문제](https://www.acmicpc.net/problem/2920))
 26. [더하기 & 마이너스](https://www.youtube.com/watch?v=As9vKkG7MfI&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=31)
 27. [팩토리얼 재귀](https://www.youtube.com/watch?v=JyaK14AhGm4&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=32) ([관련문제](https://www.acmicpc.net/problem/10872)) ※재귀함수로 풀어주세요!
+> Day 10
+25. [누적합 재귀ver](https://www.youtube.com/watch?v=hmc_m_eTek4&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=33) ※재귀함수로 풀어주세요!
+26. [색칠 재귀ver](https://www.youtube.com/watch?v=NKatz0_A3Zo&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=34) ※재귀함수로 풀어주세요!
+27. [숫자추출 재귀ver](https://www.youtube.com/watch?v=-SugL4jfpxY&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=36) ※재귀함수로 풀어주세요!
