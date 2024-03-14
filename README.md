@@ -77,3 +77,7 @@ merge 컨벤션
 22. [상수](https://www.youtube.com/watch?v=DH18W_oII6U&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=27&t=30s) ([관련문제](https://www.acmicpc.net/problem/2908))
 23. [달팽이 출력](https://www.youtube.com/watch?v=8tjHHJEWkbA&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=28) ([관련문제](https://www.acmicpc.net/problem/1913))
 24. [10진수 2~16 진수 변환](https://www.youtube.com/watch?v=Hdr9eLWz_MU&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=29) ([관련문제](https://www.acmicpc.net/problem/14915))
+> Day 9
+25. [음계](https://www.youtube.com/watch?v=ONOTz6RsPzo&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=30&t=180s) ([관련문제](https://www.acmicpc.net/problem/2920))
+26. [더하기 & 마이너스](https://www.youtube.com/watch?v=As9vKkG7MfI&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=31)
+27. [팩토리얼 재귀](https://www.youtube.com/watch?v=Hdr9eLWz_MU&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=29) ([관련문제](https://www.acmicpc.net/problem/27434)) ※재귀함수로 풀어주세요!
