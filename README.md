@@ -87,4 +87,4 @@ merge 컨벤션
 30. [숫자추출 재귀ver](https://www.youtube.com/watch?v=-SugL4jfpxY&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=36) ※재귀함수로 풀어주세요!
 > Day 11
 31. [이진수변환 재귀ver](https://www.youtube.com/watch?v=gVTfhGzRujk&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=37&t=3s) ※재귀함수로 풀어주세요!
-32. [단지수 측정 재귀ver](https://www.youtube.com/watch?v=iPrBYFUWgjU&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=38) ※재귀함수로 풀어주세요!
+32. [단지수 측정 재귀ver](https://www.youtube.com/watch?v=iPrBYFUWgjU&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=38) ([관련문제](https://www.acmicpc.net/problem/2667)) ※재귀함수로 풀어주세요!
