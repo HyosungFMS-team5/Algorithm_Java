@@ -88,3 +88,6 @@ merge 컨벤션
 > Day 11
 31. [이진수변환 재귀ver](https://www.youtube.com/watch?v=gVTfhGzRujk&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=37&t=3s) ※재귀함수로 풀어주세요!
 32. [단지수 측정 재귀ver](https://www.youtube.com/watch?v=iPrBYFUWgjU&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=38) ([관련문제](https://www.acmicpc.net/problem/2667)) ※재귀함수로 풀어주세요!
+> Day 12
+33. [치킨쿠폰 재귀ver](https://www.youtube.com/watch?v=dLlUjmMMKqg&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=39) ([관련문제](https://www.acmicpc.net/problem/1673)) ※재귀함수로 풀어주세요!
+34. [1,2,3 더하기](https://www.youtube.com/watch?v=7V5JUtLpVdQ&list=PLVoihNyHW4xkm_KJ8_N8X7F6EQP4uSRyR&index=40) ([관련문제](https://www.acmicpc.net/problem/9095))
